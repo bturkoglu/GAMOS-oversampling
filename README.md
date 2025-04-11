@@ -8,7 +8,7 @@ Official implementation of GAMOS: a game-theoretic oversampling method for imbal
 
 This repository provides the official implementation of GAMOS, as described in the paper:
 
-> **Türkoğlu, B. (2025).** * A Game-Theoretic Adaptive Oversampling Strategy for Imbalanced Data Classification*. (preparing for submission).
+> **Türkoğlu, B.** * A Game-Theoretic Adaptive Oversampling Strategy for Imbalanced Data Classification*. (preparing for submission).
 
 ---
 
@@ -38,5 +38,4 @@ pip install -r requirements.txt
   author    = {Bahaeddin Türkoğlu},
   title     = { A Game-Theoretic Adaptive Oversampling Strategy for Imbalanced Data Classification},
   journal   = {preparing for submission},
-  year      = {2025}
 }
