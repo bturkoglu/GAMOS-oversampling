@@ -1,3 +1,11 @@
-numpy
-scikit-learn
-scipy
+imbalanced-databases==0.1.1
+imbalanced-learn==0.14.2
+joblib==1.6.0
+matplotlib==3.11.2
+metric-learn==0.7.0
+numpy==2.5.4
+pandas==3.1.1
+scikit-learn==1.9.1
+scipy==1.18.1
+seaborn==0.13.2
+smote_variants==1.0.1
